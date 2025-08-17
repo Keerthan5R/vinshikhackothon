@@ -48,9 +48,9 @@ body {
     padding-left: 1rem;
 }
 
+
 .nav-links {
-    list-style: none;
-    padding: 0;
+    display: none; /* Hide for now, can be toggled with JS */
 }
 
 .nav-item {
